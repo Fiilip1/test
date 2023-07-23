@@ -1,0 +1,40 @@
+.product {
+    margin: 1rem auto;
+    padding: 1rem;
+    background-color: #e2d8f0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    width: 50%;
+   
+
+  }
+  
+  .product h2 {
+    font-size: 2rem;
+    color: #4d4c3c;
+  }
+  
+  .product h3 {
+    color: #423f35;
+    margin: 0;
+    font-size: 1rem;
+  }
+
+  .buttons ul {
+    align-items: center;
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+  }
+
+  .buttons li {
+    text-decoration: none;
+
+  }
+
+  .buttons a {
+    text-decoration: none;
+  }

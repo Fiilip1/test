@@ -1,0 +1,49 @@
+.fetch {
+    margin: 1rem auto;
+    padding: 1rem;
+    background-color: #f7dfdf;
+    box-shadow: 0 2px 8px rgba(85, 71, 71, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: rgb(80, 61, 61);
+    list-style: none;
+    width: 50%;
+   
+
+  }
+
+
+.fetch button {
+    margin: 1rem 5rem;
+    background-color: #918585; 
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+} 
+
+.ul {
+    margin: 0rem;
+    display: flex;
+    list-style: none;
+    font: inherit;
+    justify-content: center;
+    background-color: azure;
+    
+    
+  }
+
+  .ul li {
+    padding: 1rem 2rem;
+    
+    text-decoration: none;
+  }
+
+  .ul a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
